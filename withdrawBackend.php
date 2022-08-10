@@ -40,20 +40,7 @@
             array(
                 '%s',
                 '%s',
-                '%s'
-            ) //replaced %d with %s - I guess that your description field will hold strings not decimals
-            );
-          
-          /*
-                $to      = 'aidenck2006@gmail.com';
-                $subject = 'Withdraw Request From GetBuxNow.com';
-                $message =  'Amount: ' . $withdraw_amount . ' Username: ' . $username ;
-                $headers = 'From: donotreply@getbuxnow.com'       . "\r\n" .
-                             'X-Mailer: PHP/' . phpversion();
-            
-                mail($to, $subject, $message, $headers);
-            */
-          
+                '%s');
           
           
           
